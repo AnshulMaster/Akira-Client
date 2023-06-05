@@ -1,1 +1,1 @@
-# Akira
+# A Minecraft client in development by oAnshul
